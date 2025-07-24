@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: 'Montagem DILOS',
-            artist: 'DJ JSX',
+            artist: 'DJ JSX,MIG',
             src: 'Montagem-Dilos.wav',
             cover: 'ChatGPT Image 23 de jul. de 2025, 13_36_54.png'
         },
@@ -34,6 +34,12 @@ document.addEventListener('DOMContentLoaded', () => {
             artist: 'DJ JSX',
             src: 'montagem vem igual dna.wav',
             cover: 'ChatGPT Image 23 de jul. de 2025, 14_40_13.png'
+        },
+        {
+            title: 'Montagem Arabia',
+            artist: 'DJ JSX,HG',
+            src: 'Montagem Arabia.mp3',
+            cover: 'Gemini_Generated_Image_rp2myyrp2myyrp2m.png'
         },
     ];
 
