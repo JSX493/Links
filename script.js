@@ -47,6 +47,12 @@ document.addEventListener('DOMContentLoaded', () => {
             src: 'Montagem Kick Dançante.wav',
             cover: 'Capa Retrô para _Montagem Kick Dançante_.png'
         },
+        {
+            title: 'Montagem Malefica Slide',
+            artist: 'DJ JSX',
+            src: 'Montagem Malefica Slide.mp3',
+            cover: 'Tipografia Vibrante em Fundo Preto.png'
+        },
     ];
 
     let currentSongIndex = 0;
