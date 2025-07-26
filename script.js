@@ -41,6 +41,12 @@ document.addEventListener('DOMContentLoaded', () => {
             src: 'Montagem Arabia.mp3',
             cover: 'Gemini_Generated_Image_rp2myyrp2myyrp2m.png'
         },
+        {
+            title: 'Montagem Kick Dançante',
+            artist: 'DJ JSX',
+            src: 'Montagem Kick Dançante.wav',
+            cover: 'Capa Retrô para _Montagem Kick Dançante_.png'
+        },
     ];
 
     let currentSongIndex = 0;
