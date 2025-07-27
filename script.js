@@ -53,6 +53,12 @@ document.addEventListener('DOMContentLoaded', () => {
             src: 'Montagem Malefica Slide.mp3',
             cover: 'Tipografia Vibrante em Fundo Preto.png'
         },
+         {
+            title: 'Montagem Reliquia',
+            artist: 'DJ JSX',
+            src: 'Montagem Reliquia.mp3',
+            cover: 'Capa Retro com Toque Vintage.png'
+        },
     ];
 
     let currentSongIndex = 0;
