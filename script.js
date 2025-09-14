@@ -59,6 +59,12 @@ document.addEventListener('DOMContentLoaded', () => {
             src: 'Montagem Reliquia.mp3',
             cover: 'Capa Retro com Toque Vintage.png'
         },
+        {
+            title: 'Canalha',
+            artist: 'DJ JSX',
+            src: 'Canalha.mp3',
+            cover: 'Capa Retro com Toque Vintage.png'
+        },
     ];
 
     let currentSongIndex = 0;
@@ -180,3 +186,4 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSong(currentSongIndex); // Carrega a primeira música ao iniciar
     renderPlaylist(); // Renderiza a lista de músicas
 });
+
