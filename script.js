@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Canalha',
             artist: 'DJ JSX',
             src: 'Canalha.mp3',
-            cover: 'Capa Retro com Toque Vintage.png'
+            cover: 'ChatGPT Image 14 de set. de 2025, 10_44_52.png'
         },
     ];
 
@@ -186,4 +186,5 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSong(currentSongIndex); // Carrega a primeira música ao iniciar
     renderPlaylist(); // Renderiza a lista de músicas
 });
+
 
