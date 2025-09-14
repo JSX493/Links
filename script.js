@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: 'Montagem DILOS',
-            artist: 'DJ JSX,MIG',
+            artist: 'DJ JSX,DJ MIG',
             src: 'Montagem-Dilos.wav',
             cover: 'ChatGPT Image 23 de jul. de 2025, 13_36_54.png'
         },
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: 'Montagem Arabia',
-            artist: 'DJ JSX,HG',
+            artist: 'DJ JSX,DJ HG',
             src: 'Montagem Arabia.mp3',
             cover: 'Gemini_Generated_Image_rp2myyrp2myyrp2m.png'
         },
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: 'Canalha',
-            artist: 'DJ JSX',
+            artist: 'DJ JSX,DJ REIS',
             src: 'Canalha.mp3',
             cover: 'ChatGPT Image 14 de set. de 2025, 10_44_52.png'
         },
@@ -186,5 +186,6 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSong(currentSongIndex); // Carrega a primeira música ao iniciar
     renderPlaylist(); // Renderiza a lista de músicas
 });
+
 
 
